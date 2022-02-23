@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The breathings of true love from the immortal seed in the prisoner for the Lord, unto his people.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40328</idno>
+            <idno type="STC">Wing F1995</idno>
+            <idno type="STC">ESTC R28019</idno>
+            <idno type="EEBO-CITATION">10329714</idno>
+            <idno type="OCLC">ocm 10329714</idno>
+            <idno type="VID">44871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44871)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The breathings of true love from the immortal seed in the prisoner for the Lord, unto his people.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life.</term>
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44871:1"/>
+            <pb n="1" facs="tcp:44871:1" rendition="simple:additions"/>
+            <head>The breathings of true Love, from the Immortal Seed, in the Priſoner for the Lord, unto his People.</head>
+            <p>DEar <hi>Friends, Brethren</hi> and <hi>Siſters</hi> in the Light, called to be a people, loved of God the Father in the Lord Ieſus Chriſt, <hi>Grace, Love,</hi> and <hi>Peace</hi> be multiplied amongſt you, through the abundant manifeſtation of the Spirit of Life, proceed<g ref="char:EOLhyphen"/>ing from the Father and the Son.</p>
+            <p>My Children, and beloved Friends, the God of all truth hath appeared unto you in the everlaſting Cove<g ref="char:EOLhyphen"/>nant of light, and life, viſiting you in an acceptable day, and time; making known unto you his eternal Truth, by the revelation of his mighty power in your mortal bodies; whereby he brought you indeed to feel and know the miſerable eſtate and condition that ye were in; and he hath alſo given you to ſee him upon whom help is laid, and you have received him <hi>(who is the ſalvation of God)</hi> through the drawings of his mighty power; and you are brought to know and believe, that ſalvation is not to be had in another; yea many of you have received the Covenant of God, and do indeed know that your ſins are waſhed away in the blood thereof, for you have the wit<g ref="char:EOLhyphen"/>neſs in your ſelves, and the word of reconciliation is ſelt and known in your hearts, whereby abundance of peace and joy unſpeakable is witneſ<g ref="char:EOLhyphen"/>ſed, and the Kingdom is come, of which there is no end; and ſome of you are placed together therein, in Chriſt Ieſus; and many others of you the called of the Lord, are travelling thitherwards through the righteous Iudgements of the Lord, in the ſpiritual warſare, and in the faith and patience of the Lambe.</p>
+            <p>Now my Friends, be you ſtedfaſt in the truth of God received; you have been a ſuffering people moſt of the time ſince the Lord hath brought you in any meaſure into the obedience of his glorious Truth and Goſpel, <hi>(which is the power of God)</hi> and you who have abode in his fear, and ſingly given up to his will, you have mightily been preſerved, and you have felt the hand of a tender Father upholding you, and giving you peace and content, when you have loſt much of this world, and the honour and pleaſures thereof for his names ſake: Oh Friends! He hath not been wanting unto you, he hath ſeen your ſufferings, and hath looked upon your afflictions, and hath miniſtred ſtrength proportionable thereunto, that you might not faint,
+<pb n="2" facs="tcp:44871:2"/>nor be weary; Oh! let not his mercies and fatherly care and loving kind<g ref="char:EOLhyphen"/>neſs be forgotten by any of you; but let them for ever be had in remem<g ref="char:EOLhyphen"/>brance, ſo ſhall the reward be witneſſed.</p>
+            <p>Now <hi>Friends,</hi> the Lord hath ſuffered a <hi>Cloud</hi> &amp; a <hi>Miſt</hi> as it were to ſpread it ſelf in theſe Nations, whereby an evil favour is gone forth, which by fire muſt be taken away, in which he will yet further try his people that they may be as gold ſeparated clearly from the droſs, and that they may indeed be truly gathered &amp; redeemed from the <hi>earth,</hi> and <hi>all earthly things:</hi> and that they may wholly look unto him for deliverance, and know that he indeed is the a<g ref="char:EOLhyphen"/>lone refuge &amp; hiding place in the day of diſtreſs: Therfore let all, who knows the power of God, retire inward, and watch in the light of the Lambe, that you may ſeel the movings of the life, in your own veſſels, and be kept in obedience to its drawings and leadings, in this day of tryall, temptation and darkneſſe; which is ſpreading it ſelf, for a moment (<hi>mark</hi> that) leaſt any of you be ſcattered, for the enemies work is, and will be, to ſeek to draw you from your ſtrength and true guide, which, where he attains it, great will be the ſorrow and loſs of ſuch.</p>
+            <p>Therefore my dearly beloved friends, who have taſted how good the Lord is, in the tender bowels of Chriſt, I beſeech you, be ſervent in love to God, and one towards another; and be watchful in the Light, and there<g ref="char:EOLhyphen"/>in watch one over another, and ſtrengthen, and comfort, and encourage, and build up one another, in the work and ſervice of the Lord: And if any <hi>(through the temptation of the enemy)</hi> hath at any time ſpoken or done any wrong to another, even as God, in Chriſt, <hi>forgave you,</hi> ſo freely <hi>forgive ye one another;</hi> and be ye plain hearted one to another, and be ye reconciled in that which deſtroys all prejudice, and purges out all hard thoughts; that ſo <hi>the unity may be witneſſed in that love, which thinks no evil;</hi> and the <hi>one Head</hi> and <hi>Maſter over all</hi> ſubmitted unto; and let the gathering be unto him alone, that ſo the bleſſing may be multiplied in and amongſt you, unto the glory and praiſe of him, that gives the encreaſe. And be diligent in meet<g ref="char:EOLhyphen"/>ing together <hi>(whilſt you may)</hi> in the name and power of the Lord, and be watchful in the meaſure of the life of God, that you may feel your ſtrength renewed and increaſed in the inward man; For Friends, this is a day which will try every ones ſtrength; therefore dwell in the power, in which the true gathering is, that ye may not ſcatter abroad; for he, that gathers not, ſcatters abroad, and he, that goes from the drawings of the power, gathers not. Now Friends, as ye keep in the drawings and ſpring<g ref="char:EOLhyphen"/>ings of the inviſible life, ye will be knit together in one life, and there will be no ſtriving, who ſhall be greateſt; but every one will be ſerving the Lord in their ſeveral places and meaſures, and one another in love; and as this is abode in, the weak in ſomethings and at ſometimes may help the ſtrong, and the ſtronger in other things may help the weak; Oh Friends! be as Chil<g ref="char:EOLhyphen"/>dren of one Father, dwelling in innocency and love together, helping one another; Be ye indeed as members of one body, knowing that the nouriſh<g ref="char:EOLhyphen"/>ment
+<pb n="3" facs="tcp:44871:2"/>to the ſeveral members thereof comes from one head, and conſidering that every member hath not the ſame office, yet of exceeding ſervice, as each moves and acts in true love to the body, and therefore ought to be born and owned in their reſpective places; and if any member would act any thing, that might hurt the body, or any part of it, either through being out of the ſence, what is of ſervice to the body, or otherwiſe, then if another member or members be made ſenſible of the ſame, it, or they, are bound in love to the body, to ſeek to hinder the ſame, and in tender love to reſtore the erring member, that ſo the body may be kept in true order, and every member ſeeking the good one of another: Oh Friends! conſider how the members, even of the true natural body, ſerve one another in love; how does one cover another? how does one bear, and ſtrain, and labour for the good of each other, to help one another? and how much more ought theſe things to abound in the ſpirituall body, of <hi>which Chriſt is the head?</hi>
+            </p>
+            <p>And now, that which chiefly lies upon me at preſent to you is this, That ye all, in the feeling of the pure Life and power of God, may keep, and that where there hath been any watching for advantage by any (among you) againſt one another, or ſtrife of words, or prejudice, or ſtriving to lord it one over another, or ſtrangeneſs one towards each other, that theſe things be utterly laid aſide and reſiſted (for where theſe things, or any of them, take place, they eat as doth a canker, and devoure the babe which ſhould in<g ref="char:EOLhyphen"/>herit the promiſes, and receive the bleſſing) and that in tender bowels of love ye receive and embrace one another; and that all whatſoever hath ten<g ref="char:EOLhyphen"/>ded to the contrary in any, may die and be ſorgotten, as if it had never been; that ſo the birth immortal <hi>(which hath been quenched in ſome)</hi> may ſpring and grow in the vertue of the Father, that its ſtrong crys, both in the male and in the f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>male, may pierce through the clouds, &amp; reach unto the Father of Life &amp; power, and wreſtle with him, untill the bleſſing be given abundantly, yea, until he make bare his arme in the ſight of his enemies, that the o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>preſſour may ceaſe, and the land may be ſwept of evil doers; that ſo a way may be made, for the further ſpreading of his everlaſting name and truth, and for the exalting of the Kingdome of the Lord Ieſus over all the kingdomes of the world.</p>
+            <p>Ah Friends! the <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>nity (in the Spirit)</hi> the <hi>Love,</hi> the <hi>Love</hi> (from a pure heart) is exceeding precious; the yearning of bowels one toward each other <hi>(in the L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd</hi> the <hi>Faith,</hi> the <hi>Patience,</hi> the <hi>Watching,</hi> and <hi>Breathing,</hi> and <hi>groaning</hi> and <hi>ſighing,</hi> and <hi>praying,</hi> &amp; <hi>crying in the ſpirit</hi> and <hi>power of Emmanuel,</hi> is able to aſtoniſh the Heathen, and to confound Armies, and Powers, that withſtand the Kingdome of the Lord Chriſt, and to cauſe vengeance to come upon ſuch, as will not repent and turn to the Lord, in the day of their viſi<g ref="char:EOLhyphen"/>tation, even in the day of Gods long patience and forbearance, but ſet and bend themſelves againſt the Lord and his Anointed.</p>
+            <p>Now <hi>Friends</hi> here is our ſtrength, and theſe are the weapons, which we muſt warr withall, againſt all this ungodlineſs that is come and coming up:
+<pb n="4" facs="tcp:44871:3"/>Therefore every particular, hearken diligently unto the Call of God, in the inward parts, and wait in the meek princi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le of Life, that each may know and feel their own proper gift or gifts, weapon or weapons, and that every one may be kept ſenſible of the teachings of the Captain of our ſalvation, that ſo ye may be expert in handling and uſing of it, or them, to the glory of him, who hath called you to war againſt <hi>Babylon:</hi> And dear Friends, if any, who loves the truth, be yet further oppreſſed and their goods ſpoiled by the falſe Prophet, or Beaſt, as many will be; Oh! be ye tender hearted towards ſuch and know that the earth is the Lords, and the fulneſs thereof, and they that follow the Lambe, are redeemed from the earth; Therefore ye, who know the life, dwell in it, that your redemption from all earthly things may be witneſſed, and that your bodies and eſtates may freely be given up to ſerve the Lord, and one another, whileſt you are ſuffered to enjoy them. Friends, I know many of your bodies and eſtates have been, and yet are ſo given up; But theſe things I ſpeak by way of remembrance, to ſtir up the pure mind in all, who breath after the truth, that love unfeigned may be maintained and increaſed among you, that ye may be all as Children of one family, dwelling together in unity and peace, contented with the will of the Father: and be not at all diſcouraged or daunted, becauſe of the ſtrength, and malice, and cruelty that is in the Adverſary, but be ſtill and patient in the faith, and ſtand out of all mortals, in the ſence of the inviſible, im<g ref="char:EOLhyphen"/>mortal power of God; and in that, meet oft together, and viſit one another whileſt you may; and be as Lambs amongſt Wolves, and the Lord our God ſhall appear for us, and fight againſt our enemies, as he fought in the dayes of old againſt the enemies of his Seed; yea he ſhall confound our enemies, and bring them to nought, and bring liberty to his people, when he hath tryed them to the full; be patient, and doubt not, though the day muſt be hot, yet it ſhall be but ſhort, for the Elects ſake; Watch and look not out, <hi>He that will ſave his life ſhall looſe it, but he, that is willing to part with it, ſhall find it eternally.</hi> So the endleſſe, eternal Father of <hi>Life,</hi> of <hi>Power,</hi> of <hi>Wiſdom,</hi> of <hi>Peace,</hi> of <hi>Love,</hi> of <hi>Salvation,</hi> gather, and knit, and unite you together, and preſerve and keep you in the melting power and love of the Lambe, that ye may be as a garden of ſpices, that your ſavour may be pleaſant unto the Lord, and unto all that breath after him, in this the day of tryal, <hi>Amen.</hi>
+            </p>
+            <p>Ah my dear Friends, you have had a large and glorious day allowed you for the begetting and gathering of you into the precious faith, and the unity thereof; and many precious opportunities have you had for the aſſembling your ſelves together in the name of the Lord, and plentiouſly hath his eter<g ref="char:EOLhyphen"/>nal ſweet power and life been manifeſted in and among you; and as you have waited therein Oh! how have you felt the blood of the everlaſting Covenant, the life of Jeſus purging and purifying your Conſciences, that therein you might hold the myſtery of that ſaith, which is your victory over the world, And now my Friends, the Lord our God hath ſeen it good, that you may yet be tryed, yea you muſt further be tryed, your <hi>faith,</hi> your
+<pb n="5" facs="tcp:44871:3"/>
+               <hi>ſtrength,</hi> your <hi>patience,</hi> muſt all be <hi>tryed,</hi> and that by fire (as I ſaid before) that a pure people you may be (who ſtands and endures the tryal) unto the Lord, yea a glorious people ſhall ye be, whoſe beauty and ſplendour ſhall fill the earth.</p>
+            <p>Therefore my dearly beloved in the Lord, be watchful, I beſeech you, and turn in, and keep low in the feeling of the eternal Power in your own veſ<g ref="char:EOLhyphen"/>ſels, and know that every particulars ſtrength lyeth there, and every parti<g ref="char:EOLhyphen"/>cular will be tried. Therefore keep to your particular ſtrength, and be obo<g ref="char:EOLhyphen"/>dient to the Power in all its movings, that ſo by it your minds may be drawn off all things that can or may change and come to an end, and become wholly centered in the unchangeable endleſs life of God. Then my Friends, nothing can harm you. But verily if any of your affections be centered in <hi>Husbands, Wives, Children</hi> or <hi>any earthen veſſel or viſible thing</hi> whatſoever, ſo as that you cannot be willing to part with all, if it be required at your hands; then may your ſufferings be great and dangerous unto you. Therefore I beſeech you be ye followers of the inviſible Life of Jeſus, in all its appea<g ref="char:EOLhyphen"/>rances and drawings; that ſo by it you may be taught how to uſe all viſible changeable things unto the Glory of the Lord, whileſt you are permitted to enjoy them. And that you may be made willing to give up, and to part with all, yea even <hi>with your lives alſo,</hi> if you be called thereunto, for the tryal of your faith (or that your enemies thereby may fill up the meaſure of their ini<g ref="char:EOLhyphen"/>quity, and that judgement may come upon them to the full). And whilſt you have outward liberty for the keeping your meetings together, be diligent therein <hi>(as I ſaid before)</hi> and when any of you come to be hindered from ſuch opportunities as you have enjoyed. Oh! then be patient, and wait upon the Lord for ſtrength; and if in any place it ſhould come to paſſe, that but two or three of you could come together, neglect not that; for if in the pure fear and love of God you be kept, it will be profitable and comfortable unto you. And dear Friends, you who are but weak in the Truth, to you I now ſpeak, Take heed of looking out at any of us, whom the Lord God hath drawn forth by his own power and love, to declare his living eternal Truth unto you, I ſay, look not out <hi>at us</hi> (as for ſtrength or teachings) but look <hi>to the endleſſe life in your ſelves,</hi> which we have directed you unto, in which your ſtrength &amp; ſatisfactory teaching is; for we may be removed far from you <hi>as to the outward</hi>) but the Life &amp; Power, by which you, &amp; we ſtand, abideth with and in you; and we <hi>(as to the outward)</hi> may be bruiſed, broken and ſlain for the teſtimony of Jeſus, and the Word of God, which we hold. But the <hi>Life</hi> and <hi>Spirit of God</hi> and the Lamb dwelleth for ever with you that believe in it; and if ye crucifie it not to your ſelves, there is none that can ſlay it. And while you have us, or any of us, among you, I exhort and warn you all, and that in the name and authority of the Lord, that ye look not upon; or think of any of us, above what we are, leaſt thereby you ſhould hurt your ſelves (or any of us); but according as God hath diſtributed unto us of his heaven<g ref="char:EOLhyphen"/>ly treaſure, even ſo know us, and feel us, and receive us in the Lord, and
+<pb n="6" facs="tcp:44871:4"/>know no man after the fleſh, neither admire any thing but the pure Life of God, and the birth born of him, and know, that what of Gods treaſure we have in our earthen veſſels, we have received it from the Lord, that none might glory or boaſt <hi>(in what they have)</hi> over another. And what we have received it is partly for your ſakes, that we might impart of the ſame unto you, as good ſhewards of the manifold grace of God; and although we are become the Lords free-men, through the work of his eternal Power and Spirit, yet are we your ſervants in Chriſt, and ſo let us be accounted among you, for that is our place and duty, even to ſerve you in the Lord, and to ſtand given up, to ſpend and be ſpent for you; and if we ſhould not ſo walk among you in all humility of mind, I know the Lord would ſoon withdraw his glorious power and preſence from us and then what ſhould we be more then others nay, how much leſſe and weaker?</p>
+            <p>So dear Friends, <hi>keep in the pure ſear,</hi> and <hi>live in the true favour,</hi> that ye may have a true ſenſible feeling one of another in your preſent conditions; and that ye may be able to ſtrengthen one another in the Lord. And if at any time, any be felt not to be in ſo clear and living a condition as they formerly have been in; Oh! take heed how you judge of thoſe things, and beware of prejudice, or of a ſpirit that would rejoyce, becauſe advantages at ſuch a time may eaſily be taken, for that is accurſed in the ſight of God. But keep ye in the dread and wiſdom of the Lord; and they that reprove, or exhort, ſuch as are come to loſs in their conditions, let it be in that ſpirit which can bear and ſuffer all things <hi>(that are to be born)</hi> for the Seeds ſake, in the true pa<g ref="char:EOLhyphen"/>tience and meekneſs. Oh Friends! this is the <hi>reſtoring, healing, ſtrengthening, conſolating Spirit,</hi> which is of great price with the Lord, and in this live and you will feel the bleſſing, the peace, and mercy upon the Iſrael of God, and you will be meet helps one to another.</p>
+            <p>And now <hi>dear Friends</hi> and <hi>Babes,</hi> you who watch for peace and unity in righteouſneſs, and can bear and endure all things <hi>(that may be born)</hi> for the Elects ſake, my life is bound up with you in the overcomings of Gods love; and I am refreſhed in you, and I partake of your peace and joy, and meet and kiſs you in the meek Spirit, and rejoyce with you in the work of the Lord; My Friends, go on in the power of God, and build up one another in the living ſaith, and wait therein together, that in the eternal power ye may ſeel dominion over all the cruelty of the enemy; for it's the faith in the power that muſt break through all this wickedneſs, and bring down all this ungodlineſs, that is ſpreading it ſelf as if there were no end of it: But Friends, as in the dread of the Lord ye keep, you will ſee the power of darkneſſe va<g ref="char:EOLhyphen"/>niſh away, &amp; they that act in it ſhall be chained under, though for a moment they have liberty, for the tryal of our faith: But verily in the power of the Lord God, I can truly rejoyce over all theſe things, becauſe I ſee the Lords preſence and loving kindneſs in a wonderful manner amongſt thoſe that truly wait upon him, and truſts alone in him for deliverance, even in the time of their tryals; and becauſe he hath given me ſtedfaſtly to believe, that
+<pb n="7" facs="tcp:44871:4"/>he will bring deliverance for his people, and ſet them over all the powers of the earth, by his own arme: Therefore <hi>let none murmur,</hi> nor think that the Lord is flack concerning his appearing for his people but let every one, that knows the truth, in that patiently wait, and endure whatſoever the Lord ſuffers the wicked to do unto you in the day of his long patience and ſor<g ref="char:EOLhyphen"/>bearance, which he in compaſſion grants unto them, that they might come to repentance and amendment of life, which if they wholly ſlight, and will not be gathered in that day, he hath <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower enough <hi>(and will execute it)</hi> to de<g ref="char:EOLhyphen"/>ſtroy them, and to deliver his people, that truſt in him.</p>
+            <p>So in the pure life, and power, and vertue of the Father be ye ſtayed, and quiet in your minds, and wait to receive your daily bread and water of life from him, that ye may grow up in the eternal, and be eſtabliſhed for ever, in the power of an endleſſe life: Oh Friends, <hi>if any looks out,</hi> in this day, they will <hi>let in weakneſs;</hi> and whoſoever ſeels weakneſs, let them abide and be<g ref="char:EOLhyphen"/>lieve in that which makes them ſenſible of their weakneſs, and they will ga<g ref="char:EOLhyphen"/>ther ſtrength, and be able to ſtand.</p>
+            <p>And as for you, my dearly beloved Friends, who are come to witneſs your Redemption from the earth by the blood of the Covenant, and are now following of the Lamb whitherſoever he goeth, leads, draws, or commands you; I know you are come to the Anoynting, and have received it, and that abides in you, and you into it are comprehended, ſo that you need not any man to teach you, but as the ſame Anoynting that abideth in you doth teach you: for that is true, and there is no lie of it; and that teacheth you of all things (which are ſuteable to your conditions) and it ſheweth you things to come, and with it you are able to try Spirits and Doctrines, and even as it hath taught you, ye ſhall abide in him, the Lord, that Spirit. And where this is felt and witneſſed, there is liberty; and ſitting and waiting in this, you are ſed with the bread from above <hi>(which giveth life)</hi> and refreſhed with the ſprings from beneath (which makes its way through the Rocks and Mountains to the pleaſant Valleys) and you that are come to this ſeat, you are able to judge of things <hi>within</hi> and <hi>without;</hi> and although you have not need to be taught by letters, yet I know, you that are come to this ſtate can bear the word of Exhortation to be ſounded among you, that ſo it may reach unto them to whom it is of ſervice, for the ſlirring up of their pure minds, that ſo the life and power immortal, may in the freſhneſſe and purity of it be felt in and amongſt all the flock, and that in the ſweetneſs and vertue thereof you all may be kept and preſerved, in pure unity and peace with God and one with another. So the <hi>Bleſſing</hi> and <hi>Mercy</hi> of the Almighty, reſt and abide for ever upon you all, who delight in the truth which is e<g ref="char:EOLhyphen"/>ternal.</p>
+            <p>And Friends, take heed how you receive <hi>reports,</hi> and <hi>report them again,</hi> for there is a great danger in thoſe things, and there is and hath been very much wrong among people upon that account, for many thereby are be<g ref="char:EOLhyphen"/>gotten into ſtrange lying wonders, and ſome into queſtionings and ſears in
+<pb n="8" facs="tcp:44871:5"/>their minds, and ſome into falſe joys and fooliſh expectations, and ſome into prejudice one againſt another, becauſe falſe reports hath been received and reported again. Therefore that you may be clear of theſe things, be you very mindful, watchful, and careful, that you report not any thing but as you have a certain ground for the truth of it; and as you may ſee a ſer<g ref="char:EOLhyphen"/>vice in ſpeaking thereof, or elſe you had better be <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ent to thoſe things, and let them die, that ſo <hi>truth, unity,</hi> and <hi>peace</hi> may be lived in, and abound a<g ref="char:EOLhyphen"/>mongſt you in all things.</p>
+            <closer>
+               <dateline>London, <date>the eight day of the eight moneth, 1660.</date>
+               </dateline>
+               <signed>
+                  <hi>I am your endeared</hi> Friend <hi>and</hi> Brother, <hi>in the bowels of Chriſt, whoſe</hi> life <hi>is freely given up to anſwer the will and requirings of the</hi> Father; <hi>travelling for</hi> Unity, <hi>and</hi> Peace, <hi>and</hi> Righteouſneſs <hi>amongſt men, where its wanting; and greatly rejoycing with all thoſe in whom it abounds, and is felt and witneſſed,</hi> George Fox <hi>the Younger.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Behold! how good and how pleaſant a thing it is, for Brethren to <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> together in unity.</hi>
+               </p>
+            </postscript>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon</hi> at the <hi>Black-Spread-Eagle</hi> and <hi>Wind-Mill</hi> in <hi>Martins l'Grand,</hi> 1660.</p>
+            <pb facs="tcp:44871:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
